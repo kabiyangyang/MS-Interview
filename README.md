@@ -5,11 +5,11 @@
 1.实习中碰到的最大的困难。
 2.毕业时间之类的。。。
 
-##Written test
+## Written test
 1.问了一下笔试的思路
 2.有什么可以改进的地方，如果输入的file里含很多行怎么修改。
 
-##Technical question
+## Technical question
 1.Linux会什么命令
 2.查看CPU，查找文件，查看进程，查看文件创建时间，其他的不记得了，问了很多。。。
 3.TCP UDP区别
