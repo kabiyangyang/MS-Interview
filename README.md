@@ -1,4 +1,4 @@
-# MS-Interview
+# MS-Interview_CICC-Interview
 4个面试官，3个提过问题，1个问Behavior question，1个问written test，1个问technical question，技术问题问的会比较深，背八股文不是很够。
 
 ## Behavior question
@@ -37,5 +37,17 @@
 12.设计模式。
 
 还有一些小的，不记得了，问了很多
+
+
+## CICC Technical questions
+1.topK
+
+2.最长子串
+
+3.C++基础问题
+
+4.算法-不要介绍，涉及底层算法的东西
+
+其实不难，是自己没准备好
 
 
